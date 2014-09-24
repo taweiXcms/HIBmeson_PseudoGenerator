@@ -1,0 +1,19 @@
+
+Universe = vanilla
+Initialdir = .
+Executable = exec_condor.sh
++AccountingGroup = "group_cmshi.tawei"
+Arguments =  fitB.C /net/hisrv0001/home/tawei/HeavyFlavor_20131030/Common/Pseudo20140320/PseudoBp/fout 21
+GetEnv       = True
+Input = /dev/null
+
+# log files
+Output       = /net/hisrv0001/home/tawei/HeavyFlavor_20131030/Common/Pseudo20140320/PseudoBp/logout/pseudo-21.out
+Error        = /net/hisrv0001/home/tawei/HeavyFlavor_20131030/Common/Pseudo20140320/PseudoBp/logout/pseudo-21.err
+Log          = /net/hisrv0001/home/tawei/HeavyFlavor_20131030/Common/Pseudo20140320/PseudoBp/logout/pseudo-21.log
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = fitB.C,utilities.h
+
+Queue

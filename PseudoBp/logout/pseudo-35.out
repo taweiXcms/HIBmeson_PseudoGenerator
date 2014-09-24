@@ -1,0 +1,2890 @@
+/export/data1/condor/execute/dir_31302
+gcc (GCC) 4.6.2
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+5.32/00
+Linux version 2.6.32-358.el6.x86_64 (mockbuild@sl6.fnal.gov) (gcc version 4.4.7 20120313 (Red Hat 4.4.7-3) (GCC) ) #1 SMP Fri Feb 22 20:37:17 CST 2013
+
+Processing fitB.C(35)...
+The local date and time is: Mon Apr 28 02:01:11 2014
+
+ FCN=28.1173 FROM HESSE     STATUS=RESET          33 CALLS         604 TOTAL
+                     EDM=6.80948e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.34945e+02   1.65933e+00   1.65933e-02   3.25404e-01
+   2  p1           5.27891e+00   2.94468e-04   2.94468e-06   2.16215e+03
+   3  p2           4.92901e-02   1.37208e-03   1.37208e-05  -1.30971e-02
+   4  p3           3.94971e+01   4.92620e-01   4.92620e-03  -8.55370e-01
+   5  p4          -5.43467e+00   8.73549e-02   8.73549e-04   1.19610e+04
+   6  p5           1.49536e-02   8.93185e-03   8.93185e-05  -4.56525e+01
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -5.74987e-02
+   8  p7           2.39420e-01   1.01869e-02   1.01869e-04  -1.44635e+01
+   9  p8           1.86853e-02   2.68406e-04   2.68406e-06   4.94185e-01
+                               ERR DEF= 0.5
+ FCN=16.5464 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=9.21249e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.43351e+00   4.60988e-01   4.60988e-03   1.17129e+00
+   2  p1           5.28356e+00   1.97623e-03   1.97623e-05   3.22172e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.03477e+02   8.55789e-01   8.55789e-03  -7.70405e-01
+   5  p4          -1.26822e+01   1.53646e-01   1.53646e-03  -3.43398e+04
+   6  p5           5.49687e-02   1.58196e-02   1.58196e-04   6.71649e+02
+   7  p6           0.00000e+00   1.92000e+01   1.92000e-01  -1.52150e-02
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2083
+fit result:321.676 321.676
+The local date and time is: Mon Apr 28 02:05:18 2014
+
+The local date and time is: Mon Apr 28 02:05:18 2014
+
+ FCN=28.7223 FROM HESSE     STATUS=RESET          33 CALLS         669 TOTAL
+                     EDM=6.51498e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.71576e+01   1.16731e+00   1.16731e-02   4.62560e-01
+   2  p1           5.27892e+00   3.88379e-04   3.88379e-06   1.63934e+03
+   3  p2           3.83284e-02   1.09018e-03   1.09018e-05  -1.99720e-01
+   4  p3           3.10035e+01   2.40755e-01   2.40755e-03  -1.75022e+00
+   5  p4          -5.03300e+00   4.21344e-02   4.21344e-04   2.29745e+04
+   6  p5           6.81677e-11   8.38903e-03   8.38903e-05** at limit **
+   7  p6           0.00000e+00   2.82843e+00   2.82843e-02  -4.87893e-02
+   8  p7           3.48501e-01   1.70494e-02   1.70494e-04  -1.07725e+01
+   9  p8           1.60535e-02   3.82950e-04   3.82950e-06   2.61663e-01
+                               ERR DEF= 0.5
+ FCN=25.03 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=4.71828e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.29548e+00   2.92805e-01   2.92805e-03   1.84407e+00
+   2  p1           5.27955e+00   2.12611e-03   2.12611e-05   2.99460e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.17261e+01   3.81289e-01   3.81289e-03  -1.72915e+00
+   5  p4          -4.57512e+00   6.78694e-02   6.78694e-04  -2.82751e+04
+   6  p5           3.44603e-02   8.47657e-03   8.47657e-05   7.85833e+02
+   7  p6           0.00000e+00   2.26274e+01   2.26274e-01  -1.29104e-02
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+540
+fit result:164.774 164.774
+The local date and time is: Mon Apr 28 02:06:41 2014
+
+The local date and time is: Mon Apr 28 02:06:41 2014
+
+ FCN=19.6568 FROM HESSE     STATUS=RESET          33 CALLS         606 TOTAL
+                     EDM=6.30043e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.98379e+01   7.75762e-01   7.75762e-03   6.96028e-01
+   2  p1           5.27869e+00   6.01947e-04   6.01947e-06   1.05771e+03
+   3  p2           4.04833e-02   1.86393e-03   1.86393e-05  -1.02203e-01
+   4  p3           5.86795e+00   1.29795e-01   1.29795e-03  -3.24644e+00
+   5  p4          -9.21400e-01   2.27435e-02   2.27435e-04   7.82414e+03
+   6  p5           1.53178e-03   2.84062e-03   2.84062e-05  -1.47045e+01
+   7  p6           4.24264e-02   5.65685e+00   5.65685e-02  -2.43946e-02
+   8  p7           2.85487e-01   2.48381e-02   2.48381e-04  -6.63946e+00
+   9  p8           1.77410e-02   5.82953e-04   5.82953e-06   2.08835e-01
+                               ERR DEF= 0.5
+ FCN=24.2111 FROM HESSE     STATUS=RESET          28 CALLS         401 TOTAL
+                     EDM=8.20878e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.19032e+00   1.67519e-01   1.67519e-03   3.22322e+00
+   2  p1           5.27861e+00   3.43042e-03   3.43042e-05   1.85600e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.51409e+00   1.97570e-01   1.97570e-03  -3.33708e+00
+   5  p4          -5.70594e-09   1.10023e+00   1.10023e-02** at limit **
+   6  p5           1.59369e-02   4.49513e-03   4.49513e-05   6.85332e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+157
+fit result:59.5159 59.5159
+The local date and time is: Mon Apr 28 02:08:05 2014
+
+The local date and time is: Mon Apr 28 02:08:05 2014
+
+ FCN=15.9131 FROM HESSE     STATUS=RESET          33 CALLS         690 TOTAL
+                     EDM=8.01213e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.26228e+01   5.05656e-01   5.05656e-03   1.06783e+00
+   2  p1           5.27968e+00   9.81665e-04   9.81665e-06   6.48577e+02
+   3  p2           4.52772e-02   4.04393e-03   4.04393e-05  -2.62559e-02
+   4  p3           5.57929e+00   6.84906e-02   6.84906e-04  -6.15227e+00
+   5  p4          -9.27665e-01   1.17579e-02   1.17579e-04   1.52372e+04
+   6  p5           1.31561e-11   4.26381e-03   4.26381e-05** at limit **
+   7  p6           0.00000e+00   2.82843e+00   2.82843e-02  -4.87893e-02
+   8  p7           2.02463e-01   3.58263e-02   3.58263e-04  -3.63776e+00
+   9  p8           2.02055e-02   8.76448e-04   8.76448e-06   1.69069e-01
+                               ERR DEF= 0.5
+ FCN=21.9312 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.56864e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.34536e-01   1.17439e-01   1.17439e-03   4.59771e+00
+   2  p1           5.27078e+00   6.43008e-03   6.43008e-05   9.90167e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           6.62676e+00   1.16912e-01   1.16912e-03  -5.63935e+00
+   5  p4          -1.06666e+00   2.04467e-02   2.04467e-04  -2.19587e+04
+   6  p5           8.97895e-03   3.72121e-03   3.72121e-05   4.66427e+02
+   7  p6           0.00000e+00   2.26274e+01   2.26274e-01  -1.29104e-02
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+77
+fit result:26.7268 26.7268
+The local date and time is: Mon Apr 28 02:09:28 2014
+
+The local date and time is: Mon Apr 28 02:09:28 2014
+
+ FCN=16.4147 FROM MIGRAD    STATUS=FAILED        572 CALLS         573 TOTAL
+                     EDM=2.12904e-05    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.22247e+01   4.96418e-01  -0.00000e+00   1.90479e-04
+   2  p1           5.27800e+00   9.49130e-04   0.00000e+00  -1.59757e-01
+   3  p2           5.00000e-02   2.58822e-02   0.00000e+00  -9.67035e-04
+   4  p3           3.01360e+00   6.82298e-03   0.00000e+00  -4.39161e-02
+   5  p4          -5.06486e-01   1.73615e-03   0.00000e+00  -3.88571e+01
+   6  p5           2.72210e-04   2.41488e-03   0.00000e+00  -2.68185e-02
+   7  p6           0.00000e+00   1.00000e+00  -0.00000e+00   0.00000e+00
+   8  p7           1.38548e-01   2.92104e-02   0.00000e+00  -5.88266e-03
+   9  p8           2.01994e-02   7.91512e-04  -0.00000e+00   5.02322e-03
+                               ERR DEF= 0.5
+ FCN=24.4375 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=5.66309e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.18202e-01   1.30057e-01   1.30057e-03   4.15165e+00
+   2  p1           5.28214e+00   4.80813e-03   4.80813e-05   1.32418e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.84367e+00   1.02490e-01   1.02490e-03  -6.43289e+00
+   5  p4          -7.78399e-01   1.79080e-02   1.79080e-04  -1.83014e+04
+   6  p5           8.77372e-03   3.43327e-03   3.43327e-05   4.93990e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+76
+fit result:35.9101 35.9101
+The local date and time is: Mon Apr 28 02:10:51 2014
+
+Got Nsig:3221/321.676
+Got extracted:321.676
+Pseudo exp:0
+The local date and time is: Mon Apr 28 02:12:25 2014
+
+cout:3221
+_cout:24706
+true_yield:321
+Start pseudo exp fit:0
+The local date and time is: Mon Apr 28 02:12:52 2014
+
+ FCN=18.6529 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.03081e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.97331e+00   4.48073e-01   4.48073e-03   1.20505e+00
+   2  p1           5.27964e+00   1.93181e-03   1.93181e-05   3.29580e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.19837e+02   8.55891e-01   8.55891e-03  -7.70314e-01
+   5  p4          -1.55653e+01   1.53587e-01   1.53587e-03  -4.20394e+04
+   6  p5           5.26732e-02   1.59975e-02   1.59975e-04   6.36445e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2082
+fit result:298.666 298.666
+The local date and time is: Mon Apr 28 02:12:52 2014
+
+Pseudo exp:1
+The local date and time is: Mon Apr 28 02:12:52 2014
+
+cout:3221
+_cout:25715
+true_yield:339
+Start pseudo exp fit:1
+The local date and time is: Mon Apr 28 02:13:20 2014
+
+ FCN=20.9217 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.09337e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.36912e+00   4.74639e-01   4.74639e-03   1.13760e+00
+   2  p1           5.28009e+00   1.66331e-03   1.66331e-05   3.82783e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           6.07349e+01   8.55979e-01   8.55979e-03  -7.70235e-01
+   5  p4          -5.14287e+00   1.53975e-01   1.53975e-03  -1.40017e+04
+   6  p5           7.98487e-02   1.57187e-02   1.57187e-04   9.81891e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2100
+fit result:368.456 368.456
+The local date and time is: Mon Apr 28 02:13:20 2014
+
+Pseudo exp:2
+The local date and time is: Mon Apr 28 02:13:20 2014
+
+cout:3221
+_cout:25020
+true_yield:337
+Start pseudo exp fit:2
+The local date and time is: Mon Apr 28 02:13:47 2014
+
+ FCN=18.6172 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=4.05523e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.25207e+00   4.69564e-01   4.69564e-03   1.14990e+00
+   2  p1           5.27645e+00   1.65758e-03   1.65758e-05   3.84106e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           5.48648e+01   8.54676e-01   8.54676e-03  -7.71409e-01
+   5  p4          -4.16022e+00   1.53680e-01   1.53680e-03  -1.13594e+04
+   6  p5           9.97059e-02   1.61188e-02   1.61188e-04   1.19561e+03
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2098
+fit result:362.604 362.604
+The local date and time is: Mon Apr 28 02:13:47 2014
+
+Pseudo exp:3
+The local date and time is: Mon Apr 28 02:13:47 2014
+
+cout:3221
+_cout:25610
+true_yield:298
+Start pseudo exp fit:3
+The local date and time is: Mon Apr 28 02:14:15 2014
+
+ FCN=18.8735 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=7.55412e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.32103e+00   4.54187e-01   4.54187e-03   1.18883e+00
+   2  p1           5.27920e+00   1.89079e-03   1.89079e-05   3.36731e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           8.82892e+01   8.55462e-01   8.55462e-03  -7.70700e-01
+   5  p4          -9.93977e+00   1.53861e-01   1.53861e-03  -2.69510e+04
+   6  p5           4.53288e-02   1.53208e-02   1.53208e-04   5.71897e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2059
+fit result:316.051 316.052
+The local date and time is: Mon Apr 28 02:14:15 2014
+
+Pseudo exp:4
+The local date and time is: Mon Apr 28 02:14:15 2014
+
+cout:3221
+_cout:26314
+true_yield:334
+Start pseudo exp fit:4
+The local date and time is: Mon Apr 28 02:14:43 2014
+
+ FCN=17.5316 FROM HESSE     STATUS=RESET          28 CALLS         340 TOTAL
+                     EDM=6.67585e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.50431e+00   4.62275e-01   4.62275e-03   1.16803e+00
+   2  p1           5.28029e+00   1.82608e-03   1.82608e-05   3.48663e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.31922e+02   8.52495e-01   8.52495e-03  -7.73383e-01
+   5  p4          -1.77395e+01   1.52896e-01   1.52896e-03  -4.80219e+04
+   6  p5           3.81079e-02   1.57360e-02   1.57360e-04   4.68112e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2095
+fit result:325.216 325.216
+The local date and time is: Mon Apr 28 02:14:43 2014
+
+Pseudo exp:5
+The local date and time is: Mon Apr 28 02:14:43 2014
+
+cout:3221
+_cout:25683
+true_yield:309
+Start pseudo exp fit:5
+The local date and time is: Mon Apr 28 02:15:11 2014
+
+ FCN=21.4906 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.75754e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.99780e+00   4.48954e-01   4.48954e-03   1.20269e+00
+   2  p1           5.27871e+00   1.94890e-03   1.94890e-05   3.26690e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.12540e+02   8.57477e-01   8.57477e-03  -7.68889e-01
+   5  p4          -1.41855e+01   1.54063e-01   1.54063e-03  -3.82479e+04
+   6  p5           3.22920e-02   1.53858e-02   1.53858e-04   4.05701e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2070
+fit result:299.89 299.89
+The local date and time is: Mon Apr 28 02:15:11 2014
+
+Pseudo exp:6
+The local date and time is: Mon Apr 28 02:15:11 2014
+
+cout:3221
+_cout:25899
+true_yield:323
+Start pseudo exp fit:6
+The local date and time is: Mon Apr 28 02:15:39 2014
+
+ FCN=22.7441 FROM HESSE     STATUS=RESET          28 CALLS         340 TOTAL
+                     EDM=5.43312e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.51257e+00   4.58373e-01   4.58373e-03   1.17798e+00
+   2  p1           5.27792e+00   1.86141e-03   1.86141e-05   3.42045e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           9.75042e+01   8.48933e-01   8.48933e-03  -7.76628e-01
+   5  p4          -1.18225e+01   1.52250e-01   1.52250e-03  -3.23336e+04
+   6  p5           9.83445e-02   1.65559e-02   1.65559e-04   1.14816e+03
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2084
+fit result:325.629 325.629
+The local date and time is: Mon Apr 28 02:15:39 2014
+
+Pseudo exp:7
+The local date and time is: Mon Apr 28 02:15:39 2014
+
+cout:3221
+_cout:26095
+true_yield:313
+Start pseudo exp fit:7
+The local date and time is: Mon Apr 28 02:16:07 2014
+
+ FCN=21.0686 FROM HESSE     STATUS=RESET          28 CALLS         340 TOTAL
+                     EDM=1.55335e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.41541e+00   4.61388e-01   4.61388e-03   1.17028e+00
+   2  p1           5.28105e+00   1.92163e-03   1.92163e-05   3.31326e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.22855e+02   8.50934e-01   8.50934e-03  -7.74801e-01
+   5  p4          -1.61471e+01   1.52665e-01   1.52665e-03  -4.38482e+04
+   6  p5           3.72801e-02   1.55653e-02   1.55653e-04   4.62966e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2074
+fit result:320.771 320.771
+The local date and time is: Mon Apr 28 02:16:07 2014
+
+Pseudo exp:8
+The local date and time is: Mon Apr 28 02:16:07 2014
+
+cout:3221
+_cout:25068
+true_yield:327
+Start pseudo exp fit:8
+The local date and time is: Mon Apr 28 02:16:34 2014
+
+ FCN=19.482 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.30123e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.25832e+00   4.54141e-01   4.54141e-03   1.18895e+00
+   2  p1           5.27949e+00   1.84127e-03   1.84127e-05   3.45787e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.10522e+02   8.58773e-01   8.58773e-03  -7.67728e-01
+   5  p4          -1.38317e+01   1.54275e-01   1.54275e-03  -3.72561e+04
+   6  p5           3.85674e-02   1.55760e-02   1.55760e-04   4.78623e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2088
+fit result:312.916 312.916
+The local date and time is: Mon Apr 28 02:16:35 2014
+
+Pseudo exp:9
+The local date and time is: Mon Apr 28 02:16:35 2014
+
+cout:3221
+_cout:25563
+true_yield:323
+Start pseudo exp fit:9
+The local date and time is: Mon Apr 28 02:17:02 2014
+
+ FCN=18.1213 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.65054e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.82223e+00   4.50340e-01   4.50340e-03   1.19899e+00
+   2  p1           5.27519e+00   2.02449e-03   2.02449e-05   3.14491e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.55775e+02   8.52899e-01   8.52899e-03  -7.73016e-01
+   5  p4          -2.18868e+01   1.52817e-01   1.52817e-03  -5.90292e+04
+   6  p5           1.68637e-02   1.57403e-02   1.57403e-04   2.07099e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2084
+fit result:291.111 291.111
+The local date and time is: Mon Apr 28 02:17:02 2014
+
+Pseudo exp:10
+The local date and time is: Mon Apr 28 02:17:02 2014
+
+cout:3221
+_cout:25138
+true_yield:305
+Start pseudo exp fit:10
+The local date and time is: Mon Apr 28 02:17:30 2014
+
+ FCN=17.8197 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=8.10068e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.59539e+00   4.56081e-01   4.56081e-03   1.18389e+00
+   2  p1           5.27959e+00   1.71350e-03   1.71350e-05   3.71571e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           8.38278e+01   8.49735e-01   8.49735e-03  -7.75895e-01
+   5  p4          -9.32690e+00   1.52643e-01   1.52643e-03  -2.55068e+04
+   6  p5           8.03234e-02   1.60540e-02   1.60540e-04   9.67097e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2066
+fit result:329.769 329.769
+The local date and time is: Mon Apr 28 02:17:30 2014
+
+Pseudo exp:11
+The local date and time is: Mon Apr 28 02:17:30 2014
+
+cout:3221
+_cout:25772
+true_yield:338
+Start pseudo exp fit:11
+The local date and time is: Mon Apr 28 02:17:58 2014
+
+ FCN=11.3271 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=5.8184e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.38886e+00   4.54367e-01   4.54367e-03   1.18836e+00
+   2  p1           5.27880e+00   1.84883e-03   1.84883e-05   3.44373e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           8.66155e+01   8.56920e-01   8.56920e-03  -7.69389e-01
+   5  p4          -9.76694e+00   1.53830e-01   1.53830e-03  -2.64923e+04
+   6  p5           9.85904e-02   1.65791e-02   1.65791e-04   1.14942e+03
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2099
+fit result:319.443 319.443
+The local date and time is: Mon Apr 28 02:17:58 2014
+
+Pseudo exp:12
+The local date and time is: Mon Apr 28 02:17:58 2014
+
+cout:3221
+_cout:25572
+true_yield:335
+Start pseudo exp fit:12
+The local date and time is: Mon Apr 28 02:18:26 2014
+
+ FCN=24.9587 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=7.50037e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.15241e+00   4.56308e-01   4.56308e-03   1.18331e+00
+   2  p1           5.28193e+00   1.88252e-03   1.88252e-05   3.38209e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.72977e+02   8.45728e-01   8.45728e-03  -7.79570e-01
+   5  p4          -2.50745e+01   1.51350e-01   1.51350e-03  -6.80591e+04
+   6  p5           2.56391e-02   1.61417e-02   1.61417e-04   3.07034e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2096
+fit result:307.62 307.621
+The local date and time is: Mon Apr 28 02:18:26 2014
+
+Pseudo exp:13
+The local date and time is: Mon Apr 28 02:18:26 2014
+
+cout:3221
+_cout:26554
+true_yield:330
+Start pseudo exp fit:13
+The local date and time is: Mon Apr 28 02:18:55 2014
+
+ FCN=22.8746 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.51915e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.35982e+00   4.56480e-01   4.56480e-03   1.18286e+00
+   2  p1           5.27767e+00   1.78879e-03   1.78879e-05   3.55931e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.16986e+02   8.57546e-01   8.57546e-03  -7.68827e-01
+   5  p4          -1.49857e+01   1.54023e-01   1.54023e-03  -4.03831e+04
+   6  p5           3.27549e-02   1.55053e-02   1.55053e-04   4.08345e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2091
+fit result:317.991 317.991
+The local date and time is: Mon Apr 28 02:18:55 2014
+
+Pseudo exp:14
+The local date and time is: Mon Apr 28 02:18:55 2014
+
+cout:3221
+_cout:25067
+true_yield:329
+Start pseudo exp fit:14
+The local date and time is: Mon Apr 28 02:19:23 2014
+
+ FCN=23.7641 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.71972e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.53591e+00   4.56649e-01   4.56649e-03   1.18242e+00
+   2  p1           5.27793e+00   1.72133e-03   1.72133e-05   3.69879e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           8.67297e+01   8.58983e-01   8.58983e-03  -7.67542e-01
+   5  p4          -9.64733e+00   1.54430e-01   1.54430e-03  -2.60695e+04
+   6  p5           5.83622e-02   1.56552e-02   1.56552e-04   7.20598e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2090
+fit result:326.796 326.796
+The local date and time is: Mon Apr 28 02:19:23 2014
+
+Pseudo exp:15
+The local date and time is: Mon Apr 28 02:19:23 2014
+
+cout:3221
+_cout:25273
+true_yield:315
+Start pseudo exp fit:15
+The local date and time is: Mon Apr 28 02:19:51 2014
+
+ FCN=28.0653 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.40641e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.34478e+00   4.50867e-01   4.50867e-03   1.19759e+00
+   2  p1           5.27690e+00   1.81293e-03   1.81293e-05   3.51191e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           7.34992e+01   8.58262e-01   8.58262e-03  -7.68186e-01
+   5  p4          -7.33549e+00   1.54344e-01   1.54344e-03  -1.98797e+04
+   6  p5           7.39759e-02   1.58297e-02   1.58297e-04   9.03301e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2076
+fit result:317.239 317.239
+The local date and time is: Mon Apr 28 02:19:52 2014
+
+Pseudo exp:16
+The local date and time is: Mon Apr 28 02:19:52 2014
+
+cout:3221
+_cout:26284
+true_yield:327
+Start pseudo exp fit:16
+The local date and time is: Mon Apr 28 02:20:20 2014
+
+ FCN=19.8288 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.67719e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.37380e+00   4.56003e-01   4.56003e-03   1.18410e+00
+   2  p1           5.28045e+00   1.91504e-03   1.91504e-05   3.32466e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           8.63323e+01   8.58819e-01   8.58819e-03  -7.67687e-01
+   5  p4          -9.62567e+00   1.54304e-01   1.54304e-03  -2.60327e+04
+   6  p5           7.30179e-02   1.59359e-02   1.59359e-04   8.85659e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2088
+fit result:318.69 318.69
+The local date and time is: Mon Apr 28 02:20:20 2014
+
+Pseudo exp:17
+The local date and time is: Mon Apr 28 02:20:20 2014
+
+cout:3221
+_cout:26072
+true_yield:357
+Start pseudo exp fit:17
+The local date and time is: Mon Apr 28 02:20:49 2014
+
+ FCN=34.6806 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.43098e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.55048e+00   4.82965e-01   4.82965e-03   1.11799e+00
+   2  p1           5.27869e+00   1.66104e-03   1.66104e-05   3.83305e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           9.28672e+01   8.53840e-01   8.53840e-03  -7.72164e-01
+   5  p4          -1.08698e+01   1.53334e-01   1.53334e-03  -2.95461e+04
+   6  p5           6.31714e-02   1.57046e-02   1.57046e-04   7.77522e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2118
+fit result:377.524 377.524
+The local date and time is: Mon Apr 28 02:20:49 2014
+
+Pseudo exp:18
+The local date and time is: Mon Apr 28 02:20:49 2014
+
+cout:3221
+_cout:26255
+true_yield:324
+Start pseudo exp fit:18
+The local date and time is: Mon Apr 28 02:21:18 2014
+
+ FCN=22.2243 FROM HESSE     STATUS=RESET          28 CALLS         340 TOTAL
+                     EDM=6.0017e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.45243e+00   4.54122e-01   4.54122e-03   1.18900e+00
+   2  p1           5.27720e+00   1.78487e-03   1.78487e-05   3.56712e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           7.08738e+01   8.62385e-01   8.62385e-03  -7.64514e-01
+   5  p4          -6.75433e+00   1.55258e-01   1.55258e-03  -1.82075e+04
+   6  p5           5.57251e-02   1.53410e-02   1.53410e-04   7.02135e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2085
+fit result:322.622 322.622
+The local date and time is: Mon Apr 28 02:21:18 2014
+
+Pseudo exp:19
+The local date and time is: Mon Apr 28 02:21:18 2014
+
+cout:3221
+_cout:26095
+true_yield:316
+Start pseudo exp fit:19
+The local date and time is: Mon Apr 28 02:21:47 2014
+
+ FCN=17.2897 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.23996e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.39399e+00   4.57972e-01   4.57972e-03   1.17901e+00
+   2  p1           5.27844e+00   1.85979e-03   1.85979e-05   3.42343e+02
+   3  p2           4.92901e-02     fixed    
+   4  p3           1.29672e+02   8.46704e-01   8.46704e-03  -7.78672e-01
+   5  p4          -1.74671e+01   1.51785e-01   1.51785e-03  -4.76438e+04
+   6  p5           5.64757e-02   1.60755e-02   1.60755e-04   6.79074e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.39420e-01     fixed    
+   9  p8           1.86853e-02     fixed    
+                               ERR DEF= 0.5
+2077
+fit result:319.699 319.7
+The local date and time is: Mon Apr 28 02:21:47 2014
+
+Got Nsig:865/164.774
+Got extracted:164.774
+Pseudo exp:0
+The local date and time is: Mon Apr 28 02:21:47 2014
+
+cout:865
+_cout:26678
+true_yield:148
+Start pseudo exp fit:0
+The local date and time is: Mon Apr 28 02:22:11 2014
+
+ FCN=27.2066 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=4.36055e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.64923e+00   2.68678e-01   2.68678e-03   2.00966e+00
+   2  p1           5.27986e+00   2.24467e-03   2.24467e-05   2.83643e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.96759e+01   3.91578e-01   3.91578e-03  -1.68371e+00
+   5  p4          -5.86527e+00   6.97722e-02   6.97722e-04  -3.52142e+04
+   6  p5           1.44154e-02   8.01591e-03   8.01591e-05   3.47628e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+523
+fit result:132.461 132.461
+The local date and time is: Mon Apr 28 02:22:11 2014
+
+Pseudo exp:1
+The local date and time is: Mon Apr 28 02:22:11 2014
+
+cout:865
+_cout:28672
+true_yield:171
+Start pseudo exp fit:1
+The local date and time is: Mon Apr 28 02:22:36 2014
+
+ FCN=21.1577 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.37413e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.41912e+00   2.93648e-01   2.93648e-03   1.83877e+00
+   2  p1           5.27976e+00   1.95536e-03   1.95536e-05   3.25610e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.96824e+01   3.81477e-01   3.81477e-03  -1.72829e+00
+   5  p4          -4.21298e+00   6.79618e-02   6.79618e-04  -2.60110e+04
+   6  p5           3.62274e-02   8.57395e-03   8.57395e-05   8.16746e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+546
+fit result:170.956 170.956
+The local date and time is: Mon Apr 28 02:22:36 2014
+
+Pseudo exp:2
+The local date and time is: Mon Apr 28 02:22:36 2014
+
+cout:865
+_cout:27865
+true_yield:173
+Start pseudo exp fit:2
+The local date and time is: Mon Apr 28 02:23:00 2014
+
+ FCN=22.9363 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.22473e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.36036e+00   2.93435e-01   2.93435e-03   1.84011e+00
+   2  p1           5.27924e+00   1.99284e-03   1.99284e-05   3.19486e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           4.26485e+01   3.70073e-01   3.70073e-03  -1.78155e+00
+   5  p4          -6.55159e+00   6.56778e-02   6.56778e-04  -4.17580e+04
+   6  p5           3.60443e-02   8.81426e-03   8.81426e-05   7.90464e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+548
+fit result:168.018 168.018
+The local date and time is: Mon Apr 28 02:23:00 2014
+
+Pseudo exp:3
+The local date and time is: Mon Apr 28 02:23:00 2014
+
+cout:865
+_cout:26355
+true_yield:173
+Start pseudo exp fit:3
+The local date and time is: Mon Apr 28 02:23:24 2014
+
+ FCN=21.8721 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=5.95675e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.49730e+00   2.98240e-01   2.98240e-03   1.81046e+00
+   2  p1           5.27607e+00   1.91003e-03   1.91003e-05   3.33338e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           4.49227e+01   3.68688e-01   3.68688e-03  -1.78824e+00
+   5  p4          -6.93981e+00   6.53771e-02   6.53771e-04  -4.44185e+04
+   6  p5           2.59491e-02   8.54667e-03   8.54667e-05   5.86894e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+548
+fit result:174.865 174.865
+The local date and time is: Mon Apr 28 02:23:24 2014
+
+Pseudo exp:4
+The local date and time is: Mon Apr 28 02:23:24 2014
+
+cout:865
+_cout:28517
+true_yield:155
+Start pseudo exp fit:4
+The local date and time is: Mon Apr 28 02:23:49 2014
+
+ FCN=17.4321 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=4.08132e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.90935e+00   2.78652e-01   2.78652e-03   1.93773e+00
+   2  p1           5.28020e+00   2.17393e-03   2.17393e-05   2.92874e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           4.69278e+01   3.69463e-01   3.69463e-03  -1.78449e+00
+   5  p4          -7.28828e+00   6.54590e-02   6.54590e-04  -4.65741e+04
+   6  p5           3.10490e-02   8.80709e-03   8.80709e-05   6.81472e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+530
+fit result:145.467 145.467
+The local date and time is: Mon Apr 28 02:23:49 2014
+
+Pseudo exp:5
+The local date and time is: Mon Apr 28 02:23:49 2014
+
+cout:865
+_cout:27096
+true_yield:168
+Start pseudo exp fit:5
+The local date and time is: Mon Apr 28 02:24:13 2014
+
+ FCN=26.1218 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.22076e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.52949e+00   2.96407e-01   2.96407e-03   1.82166e+00
+   2  p1           5.27936e+00   1.86492e-03   1.86492e-05   3.41401e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.48234e+01   3.87237e-01   3.87237e-03  -1.70259e+00
+   5  p4          -3.29966e+00   6.92212e-02   6.92212e-04  -2.00199e+04
+   6  p5           2.39808e-02   7.82026e-03   7.82026e-05   5.92759e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+543
+fit result:176.474 176.474
+The local date and time is: Mon Apr 28 02:24:13 2014
+
+Pseudo exp:6
+The local date and time is: Mon Apr 28 02:24:13 2014
+
+cout:865
+_cout:27149
+true_yield:169
+Start pseudo exp fit:6
+The local date and time is: Mon Apr 28 02:24:37 2014
+
+ FCN=21.5373 FROM HESSE     STATUS=RESET          28 CALLS         350 TOTAL
+                     EDM=5.31731e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.10055e+00   2.84774e-01   2.84774e-03   1.89607e+00
+   2  p1           5.28003e+00   2.18899e-03   2.18899e-05   2.90858e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.75867e+01   3.68635e-01   3.68635e-03  -1.78850e+00
+   5  p4          -5.67994e+00   6.52698e-02   6.52698e-04  -3.64606e+04
+   6  p5           5.24235e-02   9.49268e-03   9.49268e-05   1.06748e+03
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -2.92129e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+544
+fit result:155.027 155.027
+The local date and time is: Mon Apr 28 02:24:37 2014
+
+Pseudo exp:7
+The local date and time is: Mon Apr 28 02:24:37 2014
+
+cout:865
+_cout:28360
+true_yield:176
+Start pseudo exp fit:7
+The local date and time is: Mon Apr 28 02:25:02 2014
+
+ FCN=23.9482 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=8.91307e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.71890e+00   3.05160e-01   3.05160e-03   1.76940e+00
+   2  p1           5.28175e+00   1.85449e-03   1.85449e-05   3.43321e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.55450e+01   3.65227e-01   3.65227e-03  -1.80519e+00
+   5  p4          -5.33796e+00   6.47904e-02   6.47904e-04  -3.45308e+04
+   6  p5           4.08053e-02   8.78366e-03   8.78366e-05   8.97987e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+551
+fit result:185.945 185.945
+The local date and time is: Mon Apr 28 02:25:02 2014
+
+Pseudo exp:8
+The local date and time is: Mon Apr 28 02:25:02 2014
+
+cout:865
+_cout:28176
+true_yield:176
+Start pseudo exp fit:8
+The local date and time is: Mon Apr 28 02:25:27 2014
+
+ FCN=20.701 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.9179e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.59332e+00   2.99580e-01   2.99580e-03   1.80236e+00
+   2  p1           5.27725e+00   1.87802e-03   1.87802e-05   3.39020e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.60540e+01   3.71273e-01   3.71273e-03  -1.77579e+00
+   5  p4          -5.38903e+00   6.59731e-02   6.59731e-04  -3.42344e+04
+   6  p5           3.70515e-02   8.64001e-03   8.64001e-05   8.28938e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+551
+fit result:179.666 179.666
+The local date and time is: Mon Apr 28 02:25:27 2014
+
+Pseudo exp:9
+The local date and time is: Mon Apr 28 02:25:27 2014
+
+cout:865
+_cout:27068
+true_yield:176
+Start pseudo exp fit:9
+The local date and time is: Mon Apr 28 02:25:51 2014
+
+ FCN=36.0712 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.11185e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.49502e+00   2.91398e-01   2.91398e-03   1.85297e+00
+   2  p1           5.27963e+00   1.72485e-03   1.72485e-05   3.69125e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.64136e+01   3.75130e-01   3.75130e-03  -1.75754e+00
+   5  p4          -3.67897e+00   6.68173e-02   6.68173e-04  -2.31155e+04
+   6  p5           4.92535e-02   8.95609e-03   8.95609e-05   1.06303e+03
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+551
+fit result:174.751 174.751
+The local date and time is: Mon Apr 28 02:25:51 2014
+
+Pseudo exp:10
+The local date and time is: Mon Apr 28 02:25:51 2014
+
+cout:865
+_cout:25160
+true_yield:154
+Start pseudo exp fit:10
+The local date and time is: Mon Apr 28 02:26:14 2014
+
+ FCN=28.6925 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.30624e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.16967e+00   2.86675e-01   2.86675e-03   1.88350e+00
+   2  p1           5.27873e+00   2.11673e-03   2.11673e-05   3.00788e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.96883e+01   3.74905e-01   3.74905e-03  -1.75859e+00
+   5  p4          -5.99112e+00   6.66720e-02   6.66720e-04  -3.76375e+04
+   6  p5           2.46370e-02   8.22500e-03   8.22500e-05   5.79012e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+529
+fit result:158.484 158.484
+The local date and time is: Mon Apr 28 02:26:14 2014
+
+Pseudo exp:11
+The local date and time is: Mon Apr 28 02:26:14 2014
+
+cout:865
+_cout:27172
+true_yield:157
+Start pseudo exp fit:11
+The local date and time is: Mon Apr 28 02:26:38 2014
+
+ FCN=22.6478 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.2099e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.54414e+00   2.96129e-01   2.96129e-03   1.82337e+00
+   2  p1           5.27738e+00   1.90694e-03   1.90694e-05   3.33877e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           1.27777e+01   3.82604e-01   3.82604e-03  -1.72320e+00
+   5  p4          -1.23085e+00   6.83853e-02   6.83853e-04  -7.57481e+03
+   6  p5           3.98134e-02   8.23518e-03   8.23518e-05   9.34514e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+532
+fit result:177.207 177.207
+The local date and time is: Mon Apr 28 02:26:38 2014
+
+Pseudo exp:12
+The local date and time is: Mon Apr 28 02:26:38 2014
+
+cout:865
+_cout:27494
+true_yield:165
+Start pseudo exp fit:12
+The local date and time is: Mon Apr 28 02:27:02 2014
+
+ FCN=23.3376 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=4.9596e-12    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.35620e+00   2.89492e-01   2.89492e-03   1.86517e+00
+   2  p1           5.27807e+00   1.90434e-03   1.90434e-05   3.34334e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.83494e+01   3.68178e-01   3.68178e-03  -1.79072e+00
+   5  p4          -4.06831e+00   6.54196e-02   6.54196e-04  -2.60977e+04
+   6  p5           5.38025e-02   9.17776e-03   9.17776e-05   1.13316e+03
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+540
+fit result:167.81 167.81
+The local date and time is: Mon Apr 28 02:27:03 2014
+
+Pseudo exp:13
+The local date and time is: Mon Apr 28 02:27:03 2014
+
+cout:865
+_cout:26283
+true_yield:185
+Start pseudo exp fit:13
+The local date and time is: Mon Apr 28 02:27:26 2014
+
+ FCN=23.9808 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=5.90622e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.97406e+00   3.12807e-01   3.12807e-03   1.72615e+00
+   2  p1           5.28122e+00   1.88064e-03   1.88064e-05   3.38547e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.29459e+01   3.71683e-01   3.71683e-03  -1.77384e+00
+   5  p4          -4.84401e+00   6.61263e-02   6.61263e-04  -3.07177e+04
+   6  p5           3.37493e-02   8.37061e-03   8.37061e-05   7.79362e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+560
+fit result:198.703 198.703
+The local date and time is: Mon Apr 28 02:27:26 2014
+
+Pseudo exp:14
+The local date and time is: Mon Apr 28 02:27:26 2014
+
+cout:865
+_cout:27608
+true_yield:161
+Start pseudo exp fit:14
+The local date and time is: Mon Apr 28 02:27:51 2014
+
+ FCN=24.5529 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=8.06596e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.08952e+00   2.82688e-01   2.82688e-03   1.91007e+00
+   2  p1           5.28040e+00   2.12674e-03   2.12674e-05   2.99372e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.55009e+01   3.86834e-01   3.86834e-03  -1.70436e+00
+   5  p4          -3.44826e+00   6.89407e-02   6.89407e-04  -2.10034e+04
+   6  p5           4.00750e-02   8.71916e-03   8.71916e-05   8.88441e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+536
+fit result:154.476 154.476
+The local date and time is: Mon Apr 28 02:27:51 2014
+
+Pseudo exp:15
+The local date and time is: Mon Apr 28 02:27:51 2014
+
+cout:865
+_cout:26601
+true_yield:167
+Start pseudo exp fit:15
+The local date and time is: Mon Apr 28 02:28:15 2014
+
+ FCN=26.0628 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=7.67306e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.42158e+00   2.92025e-01   2.92025e-03   1.84899e+00
+   2  p1           5.28543e+00   1.92171e-03   1.92171e-05   3.31311e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.48242e+01   3.78014e-01   3.78014e-03  -1.74413e+00
+   5  p4          -3.38709e+00   6.73907e-02   6.73907e-04  -2.11066e+04
+   6  p5           4.47661e-02   8.71164e-03   8.71164e-05   9.93291e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+542
+fit result:171.079 171.079
+The local date and time is: Mon Apr 28 02:28:15 2014
+
+Pseudo exp:16
+The local date and time is: Mon Apr 28 02:28:15 2014
+
+cout:865
+_cout:27181
+true_yield:179
+Start pseudo exp fit:16
+The local date and time is: Mon Apr 28 02:28:39 2014
+
+ FCN=20.8485 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.98956e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.67387e+00   3.04691e-01   3.04691e-03   1.77213e+00
+   2  p1           5.27677e+00   2.05057e-03   2.05057e-05   3.10493e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.98838e+01   3.84638e-01   3.84638e-03  -1.71409e+00
+   5  p4          -4.22124e+00   6.85492e-02   6.85492e-04  -2.58385e+04
+   6  p5           2.70500e-02   8.16717e-03   8.16717e-05   6.40221e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+554
+fit result:183.693 183.694
+The local date and time is: Mon Apr 28 02:28:39 2014
+
+Pseudo exp:17
+The local date and time is: Mon Apr 28 02:28:39 2014
+
+cout:865
+_cout:28420
+true_yield:175
+Start pseudo exp fit:17
+The local date and time is: Mon Apr 28 02:29:04 2014
+
+ FCN=28.8678 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.43889e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.46738e+00   2.98629e-01   2.98629e-03   1.80811e+00
+   2  p1           5.27862e+00   2.03805e-03   2.03805e-05   3.12400e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           3.46352e+01   3.80677e-01   3.80677e-03  -1.73192e+00
+   5  p4          -5.08580e+00   6.77059e-02   6.77059e-04  -3.14909e+04
+   6  p5           3.18171e-02   8.47941e-03   8.47941e-05   7.25317e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+550
+fit result:173.369 173.369
+The local date and time is: Mon Apr 28 02:29:05 2014
+
+Pseudo exp:18
+The local date and time is: Mon Apr 28 02:29:05 2014
+
+cout:865
+_cout:25676
+true_yield:153
+Start pseudo exp fit:18
+The local date and time is: Mon Apr 28 02:29:28 2014
+
+ FCN=38.7235 FROM HESSE     STATUS=RESET          28 CALLS         350 TOTAL
+                     EDM=1.02006e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.06357e+00   2.85809e-01   2.85809e-03   1.88920e+00
+   2  p1           5.27910e+00   2.09711e-03   2.09711e-05   3.03602e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           5.40577e+01   3.67914e-01   3.67914e-03  -1.79201e+00
+   5  p4          -8.52610e+00   6.52282e-02   6.52282e-04  -5.46088e+04
+   6  p5           1.21612e-02   8.06626e-03   8.06626e-05   2.91437e+02
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -2.92129e-01
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+528
+fit result:153.179 153.179
+The local date and time is: Mon Apr 28 02:29:28 2014
+
+Pseudo exp:19
+The local date and time is: Mon Apr 28 02:29:28 2014
+
+cout:865
+_cout:26700
+true_yield:167
+Start pseudo exp fit:19
+The local date and time is: Mon Apr 28 02:29:52 2014
+
+ FCN=30.345 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=6.72572e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.60799e+00   2.97474e-01   2.97474e-03   1.81512e+00
+   2  p1           5.28036e+00   1.83131e-03   1.83131e-05   3.47667e+02
+   3  p2           3.83284e-02     fixed    
+   4  p3           2.05768e+01   3.77810e-01   3.77810e-03  -1.74507e+00
+   5  p4          -2.63723e+00   6.74021e-02   6.74021e-04  -1.64435e+04
+   6  p5           4.24554e-02   8.56221e-03   8.56221e-05   9.58464e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           3.48501e-01     fixed    
+   9  p8           1.60535e-02     fixed    
+                               ERR DEF= 0.5
+542
+fit result:180.399 180.399
+The local date and time is: Mon Apr 28 02:29:52 2014
+
+Got Nsig:207/59.5159
+Got extracted:59.5159
+Pseudo exp:0
+The local date and time is: Mon Apr 28 02:29:52 2014
+
+cout:207
+_cout:23055
+true_yield:56
+Start pseudo exp fit:0
+The local date and time is: Mon Apr 28 02:30:11 2014
+
+ FCN=26.0405 FROM HESSE     STATUS=RESET          28 CALLS         400 TOTAL
+                     EDM=5.07051e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.83083e-01   1.53236e-01   1.53236e-03   3.52367e+00
+   2  p1           5.27935e+00   3.55327e-03   3.55327e-05   1.79183e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.62211e+00   2.02823e-01   2.02823e-03  -3.25064e+00
+   5  p4          -8.36019e-09   1.03975e+00   1.03975e-02** at limit **
+   6  p5           1.66404e-02   4.72111e-03   4.72111e-05   6.81331e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+153
+fit result:49.1541 49.1541
+The local date and time is: Mon Apr 28 02:30:12 2014
+
+Pseudo exp:1
+The local date and time is: Mon Apr 28 02:30:12 2014
+
+cout:207
+_cout:17082
+true_yield:51
+Start pseudo exp fit:1
+The local date and time is: Mon Apr 28 02:30:26 2014
+
+ FCN=29.9563 FROM HESSE     STATUS=RESET          28 CALLS         386 TOTAL
+                     EDM=6.71334e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.11384e+00   1.64167e-01   1.64167e-03   3.28905e+00
+   2  p1           5.27602e+00   3.82666e-03   3.82666e-05   1.66381e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.55155e+00   1.98457e-01   1.98457e-03  -3.32215e+00
+   5  p4          -5.69136e-07   5.38878e-01   5.38878e-03** at limit **
+   6  p5           1.07800e-02   4.10140e-03   4.10140e-05   5.08076e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+148
+fit result:55.6919 55.692
+The local date and time is: Mon Apr 28 02:30:26 2014
+
+Pseudo exp:2
+The local date and time is: Mon Apr 28 02:30:26 2014
+
+cout:207
+_cout:19266
+true_yield:55
+Start pseudo exp fit:2
+The local date and time is: Mon Apr 28 02:30:43 2014
+
+ FCN=21.5058 FROM HESSE     STATUS=RESET          28 CALLS         386 TOTAL
+                     EDM=1.32522e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.09283e+00   1.63289e-01   1.63289e-03   3.30673e+00
+   2  p1           5.27154e+00   3.83388e-03   3.83388e-05   1.66068e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.71580e+00   2.05783e-01   2.05783e-03  -3.20388e+00
+   5  p4          -7.33152e-08   4.17242e-01   4.17242e-03** at limit **
+   6  p5           8.46672e-03   4.04155e-03   4.04155e-05   4.04958e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+152
+fit result:54.6413 54.6414
+The local date and time is: Mon Apr 28 02:30:43 2014
+
+Pseudo exp:3
+The local date and time is: Mon Apr 28 02:30:43 2014
+
+cout:207
+_cout:19811
+true_yield:62
+Start pseudo exp fit:3
+The local date and time is: Mon Apr 28 02:31:00 2014
+
+ FCN=24.5534 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.35314e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.20511e+00   1.69103e-01   1.69103e-03   3.19304e+00
+   2  p1           5.28149e+00   3.25652e-03   3.25652e-05   1.95511e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           5.87902e+00   2.00465e-01   2.00465e-03  -3.28887e+00
+   5  p4          -7.52536e-01   3.58097e-02   3.58097e-04  -8.84843e+03
+   6  p5           8.59393e-03   4.23807e-03   4.23807e-05   3.91982e+02
+   7  p6           4.24264e-02   1.01823e-01   1.01823e-03  -2.86897e+00
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+159
+fit result:60.2557 60.2557
+The local date and time is: Mon Apr 28 02:31:00 2014
+
+Pseudo exp:4
+The local date and time is: Mon Apr 28 02:31:00 2014
+
+cout:207
+_cout:19623
+true_yield:61
+Start pseudo exp fit:4
+The local date and time is: Mon Apr 28 02:31:17 2014
+
+ FCN=29.1225 FROM HESSE     STATUS=RESET          28 CALLS         400 TOTAL
+                     EDM=3.60359e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.05513e+00   1.58062e-01   1.58062e-03   3.41609e+00
+   2  p1           5.28457e+00   3.40910e-03   3.40910e-05   1.86761e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.65048e+00   2.04499e-01   2.04499e-03  -3.22401e+00
+   5  p4          -4.43254e-09   7.42578e-01   7.42578e-03** at limit **
+   6  p5           1.66293e-02   4.72097e-03   4.72097e-05   6.80896e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+158
+fit result:52.7565 52.7566
+The local date and time is: Mon Apr 28 02:31:17 2014
+
+Pseudo exp:5
+The local date and time is: Mon Apr 28 02:31:17 2014
+
+cout:207
+_cout:20491
+true_yield:55
+Start pseudo exp fit:5
+The local date and time is: Mon Apr 28 02:31:34 2014
+
+ FCN=24.3035 FROM HESSE     STATUS=RESET          28 CALLS         400 TOTAL
+                     EDM=8.13933e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.04933e+00   1.61744e-01   1.61744e-03   3.33831e+00
+   2  p1           5.27854e+00   3.97923e-03   3.97923e-05   1.60002e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.79951e+00   2.09280e-01   2.09280e-03  -3.15035e+00
+   5  p4          -2.57035e-09   1.11139e+00   1.11139e-02** at limit **
+   6  p5           6.99484e-03   3.88033e-03   3.88033e-05   3.48460e+02
+   7  p6           4.24264e-02   5.65685e+00   5.65685e-02  -5.16415e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+152
+fit result:52.4667 52.4667
+The local date and time is: Mon Apr 28 02:31:34 2014
+
+Pseudo exp:6
+The local date and time is: Mon Apr 28 02:31:34 2014
+
+cout:207
+_cout:20609
+true_yield:48
+Start pseudo exp fit:6
+The local date and time is: Mon Apr 28 02:31:52 2014
+
+ FCN=17.4489 FROM HESSE     STATUS=RESET          28 CALLS         405 TOTAL
+                     EDM=2.13052e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.71678e-01   1.52798e-01   1.52798e-03   3.53376e+00
+   2  p1           5.28027e+00   3.68200e-03   3.68200e-05   1.72918e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.42992e+00   1.93617e-01   1.93617e-03  -3.40521e+00
+   5  p4          -3.34182e-06   3.97549e+00   3.97549e-02** at limit **
+   6  p5           1.82371e-02   4.76652e-03   4.76652e-05   7.39594e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+145
+fit result:48.5839 48.5839
+The local date and time is: Mon Apr 28 02:31:52 2014
+
+Pseudo exp:7
+The local date and time is: Mon Apr 28 02:31:52 2014
+
+cout:207
+_cout:19041
+true_yield:60
+Start pseudo exp fit:7
+The local date and time is: Mon Apr 28 02:32:08 2014
+
+ FCN=38.6748 FROM HESSE     STATUS=RESET          28 CALLS         518 TOTAL
+                     EDM=9.291e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.22954e+00   1.66949e-01   1.66949e-03   3.23423e+00
+   2  p1           5.27396e+00   2.95746e-03   2.95746e-05   2.15281e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.30159e+00   1.86255e-01   1.86255e-03  -3.53980e+00
+   5  p4          -6.75927e-07   5.47879e+00   5.47879e-02** at limit **
+   6  p5           2.22829e-02   4.99915e-03   4.99915e-05   8.61612e+02
+   7  p6           4.24264e-02   5.65685e+00   5.65685e-02  -5.16415e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+157
+fit result:61.4769 61.4769
+The local date and time is: Mon Apr 28 02:32:09 2014
+
+Pseudo exp:8
+The local date and time is: Mon Apr 28 02:32:09 2014
+
+cout:207
+_cout:22041
+true_yield:50
+Start pseudo exp fit:8
+The local date and time is: Mon Apr 28 02:32:27 2014
+
+ FCN=24.0189 FROM HESSE     STATUS=RESET          28 CALLS         420 TOTAL
+                     EDM=4.20261e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06783e+00   1.58725e-01   1.58725e-03   3.40180e+00
+   2  p1           5.28403e+00   3.65264e-03   3.65264e-05   1.74309e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.45408e+00   1.93518e-01   1.93518e-03  -3.40695e+00
+   5  p4          -1.03677e-06   4.97498e+00   4.97498e-02** at limit **
+   6  p5           1.53006e-02   4.50497e-03   4.50497e-05   6.56533e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+147
+fit result:53.3917 53.3918
+The local date and time is: Mon Apr 28 02:32:27 2014
+
+Pseudo exp:9
+The local date and time is: Mon Apr 28 02:32:27 2014
+
+cout:207
+_cout:23197
+true_yield:60
+Start pseudo exp fit:9
+The local date and time is: Mon Apr 28 02:32:47 2014
+
+ FCN=19.6715 FROM HESSE     STATUS=RESET          28 CALLS         401 TOTAL
+                     EDM=1.16122e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.14161e+00   1.66066e-01   1.66066e-03   3.25143e+00
+   2  p1           5.28087e+00   3.54731e-03   3.54731e-05   1.79484e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.63436e+00   2.04148e-01   2.04148e-03  -3.22955e+00
+   5  p4          -5.44901e-10   7.79045e-01   7.79045e-03** at limit **
+   6  p5           1.33218e-02   4.41672e-03   4.41672e-05   5.83050e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+157
+fit result:57.0803 57.0803
+The local date and time is: Mon Apr 28 02:32:47 2014
+
+Pseudo exp:10
+The local date and time is: Mon Apr 28 02:32:47 2014
+
+cout:207
+_cout:23056
+true_yield:54
+Start pseudo exp fit:10
+The local date and time is: Mon Apr 28 02:33:07 2014
+
+ FCN=23.131 FROM HESSE     STATUS=RESET          28 CALLS         404 TOTAL
+                     EDM=2.89948e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.99964e-01   1.55796e-01   1.55796e-03   3.46576e+00
+   2  p1           5.28259e+00   3.71615e-03   3.71615e-05   1.71329e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.74826e+00   2.06712e-01   2.06712e-03  -3.18948e+00
+   5  p4          -1.82511e-08   1.83325e+00   1.83325e-02** at limit **
+   6  p5           9.94270e-03   4.14747e-03   4.14747e-05   4.63408e+02
+   7  p6           4.24264e-02   2.00000e+00   2.00000e-02  -1.46064e-01
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+151
+fit result:49.9982 49.9982
+The local date and time is: Mon Apr 28 02:33:07 2014
+
+Pseudo exp:11
+The local date and time is: Mon Apr 28 02:33:07 2014
+
+cout:207
+_cout:17245
+true_yield:48
+Start pseudo exp fit:11
+The local date and time is: Mon Apr 28 02:33:22 2014
+
+ FCN=28.6909 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.24652e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.08723e+00   1.61127e-01   1.61127e-03   3.35110e+00
+   2  p1           5.28253e+00   3.47616e-03   3.47616e-05   1.83158e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           7.28101e+00   1.78399e-01   1.78399e-03  -3.69568e+00
+   5  p4          -1.06862e+00   3.16212e-02   3.16212e-04  -1.42249e+04
+   6  p5           1.49752e-02   4.71380e-03   4.71380e-05   6.14104e+02
+   7  p6           4.24264e-02   1.01823e-01   1.01823e-03  -2.86897e+00
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+145
+fit result:54.3617 54.3617
+The local date and time is: Mon Apr 28 02:33:22 2014
+
+Pseudo exp:12
+The local date and time is: Mon Apr 28 02:33:22 2014
+
+cout:207
+_cout:19675
+true_yield:44
+Start pseudo exp fit:12
+The local date and time is: Mon Apr 28 02:33:39 2014
+
+ FCN=26.5953 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.43705e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.03436e-01   1.43727e-01   1.43727e-03   3.75678e+00
+   2  p1           5.28405e+00   4.65069e-03   4.65069e-05   1.36901e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           2.86968e+00   2.01092e-01   2.01092e-03  -3.27863e+00
+   5  p4          -2.27749e-01   3.59324e-02   3.59324e-04  -2.67016e+03
+   6  p5           1.46215e-02   4.62177e-03   4.62177e-05   6.11537e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+141
+fit result:40.1718 40.1718
+The local date and time is: Mon Apr 28 02:33:39 2014
+
+Pseudo exp:13
+The local date and time is: Mon Apr 28 02:33:39 2014
+
+cout:207
+_cout:19655
+true_yield:51
+Start pseudo exp fit:13
+The local date and time is: Mon Apr 28 02:33:56 2014
+
+ FCN=22.6133 FROM HESSE     STATUS=RESET          28 CALLS         387 TOTAL
+                     EDM=5.09409e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.08649e+00   1.60127e-01   1.60127e-03   3.37201e+00
+   2  p1           5.28066e+00   3.59778e-03   3.59778e-05   1.76966e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.48871e+00   1.94924e-01   1.94924e-03  -3.38236e+00
+   5  p4          -2.72524e-07   3.79290e-01   3.79290e-03** at limit **
+   6  p5           1.40816e-02   4.38617e-03   4.38617e-05   6.20594e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+148
+fit result:54.3245 54.3245
+The local date and time is: Mon Apr 28 02:33:56 2014
+
+Pseudo exp:14
+The local date and time is: Mon Apr 28 02:33:56 2014
+
+cout:207
+_cout:21009
+true_yield:67
+Start pseudo exp fit:14
+The local date and time is: Mon Apr 28 02:34:14 2014
+
+ FCN=31.093 FROM HESSE     STATUS=RESET          28 CALLS         400 TOTAL
+                     EDM=6.48537e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.26743e+00   1.73324e-01   1.73324e-03   3.11527e+00
+   2  p1           5.27655e+00   3.23849e-03   3.23849e-05   1.96600e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.64436e+00   2.05185e-01   2.05185e-03  -3.21322e+00
+   5  p4          -8.86337e-09   9.69696e-01   9.69696e-03** at limit **
+   6  p5           1.34743e-02   4.48361e-03   4.48361e-05   5.80923e+02
+   7  p6           4.24264e-02   2.82843e+00   2.82843e-02  -1.03283e-01
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+164
+fit result:63.3714 63.3714
+The local date and time is: Mon Apr 28 02:34:14 2014
+
+Pseudo exp:15
+The local date and time is: Mon Apr 28 02:34:14 2014
+
+cout:207
+_cout:19591
+true_yield:65
+Start pseudo exp fit:15
+The local date and time is: Mon Apr 28 02:34:31 2014
+
+ FCN=19.3824 FROM HESSE     STATUS=RESET          28 CALLS         417 TOTAL
+                     EDM=6.4887e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.26008e+00   1.73767e-01   1.73767e-03   3.10734e+00
+   2  p1           5.27379e+00   3.49682e-03   3.49682e-05   1.82075e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.54834e+00   2.02193e-01   2.02193e-03  -3.26077e+00
+   5  p4          -1.53219e-06   5.19453e+00   5.19453e-02** at limit **
+   6  p5           1.57944e-02   4.63298e-03   4.63298e-05   6.58995e+02
+   7  p6           4.24264e-02   2.82843e+00   2.82843e-02  -1.03283e-01
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+162
+fit result:63.0042 63.0042
+The local date and time is: Mon Apr 28 02:34:32 2014
+
+Pseudo exp:16
+The local date and time is: Mon Apr 28 02:34:32 2014
+
+cout:207
+_cout:22190
+true_yield:64
+Start pseudo exp fit:16
+The local date and time is: Mon Apr 28 02:34:51 2014
+
+ FCN=20.1903 FROM HESSE     STATUS=RESET          28 CALLS         420 TOTAL
+                     EDM=6.03128e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.18164e+00   1.66279e-01   1.66279e-03   3.24727e+00
+   2  p1           5.28072e+00   3.28322e-03   3.28322e-05   1.93921e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.30335e+00   1.89793e-01   1.89793e-03  -3.47381e+00
+   5  p4          -7.05199e-10   2.46994e+00   2.46994e-02** at limit **
+   6  p5           2.68972e-02   5.41182e-03   5.41182e-05   9.60723e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+161
+fit result:59.0821 59.0821
+The local date and time is: Mon Apr 28 02:34:51 2014
+
+Pseudo exp:17
+The local date and time is: Mon Apr 28 02:34:51 2014
+
+cout:207
+_cout:20974
+true_yield:54
+Start pseudo exp fit:17
+The local date and time is: Mon Apr 28 02:35:09 2014
+
+ FCN=23.5836 FROM HESSE     STATUS=RESET          28 CALLS         387 TOTAL
+                     EDM=1.15408e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.82820e-01   1.52118e-01   1.52118e-03   3.54957e+00
+   2  p1           5.28063e+00   3.31613e-03   3.31613e-05   1.91997e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.72642e+00   2.04505e-01   2.04505e-03  -3.22391e+00
+   5  p4          -4.97291e-08   3.19239e-01   3.19239e-03** at limit **
+   6  p5           1.13722e-02   4.22568e-03   4.22568e-05   5.20222e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+151
+fit result:49.141 49.141
+The local date and time is: Mon Apr 28 02:35:09 2014
+
+Pseudo exp:18
+The local date and time is: Mon Apr 28 02:35:09 2014
+
+cout:207
+_cout:19678
+true_yield:56
+Start pseudo exp fit:18
+The local date and time is: Mon Apr 28 02:35:26 2014
+
+ FCN=28.278 FROM HESSE     STATUS=RESET          28 CALLS         387 TOTAL
+                     EDM=7.27849e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.13484e+00   1.64753e-01   1.64753e-03   3.27734e+00
+   2  p1           5.27307e+00   3.55063e-03   3.55063e-05   1.79316e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.64630e+00   2.02377e-01   2.02377e-03  -3.25781e+00
+   5  p4          -1.77624e-09   2.48677e-01   2.48677e-03** at limit **
+   6  p5           1.02057e-02   4.07405e-03   4.07405e-05   4.84237e+02
+   7  p6           4.24264e-02   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+153
+fit result:56.742 56.742
+The local date and time is: Mon Apr 28 02:35:27 2014
+
+Pseudo exp:19
+The local date and time is: Mon Apr 28 02:35:27 2014
+
+cout:207
+_cout:19060
+true_yield:62
+Start pseudo exp fit:19
+The local date and time is: Mon Apr 28 02:35:43 2014
+
+ FCN=23.0337 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.45776e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.14361e+00   1.70671e-01   1.70671e-03   3.16370e+00
+   2  p1           5.27555e+00   3.88546e-03   3.88546e-05   1.63864e+02
+   3  p2           4.04833e-02     fixed    
+   4  p3           1.64508e+01   1.79454e-01   1.79454e-03  -3.67395e+00
+   5  p4          -2.65749e+00   3.15896e-02   3.15896e-04  -3.53539e+04
+   6  p5           7.38386e-03   4.59565e-03   4.59565e-05   3.10584e+02
+   7  p6           4.24264e-02   1.01823e-01   1.01823e-03  -2.86897e+00
+   8  p7           2.85487e-01     fixed    
+   9  p8           1.77410e-02     fixed    
+                               ERR DEF= 0.5
+159
+fit result:57.1806 57.1806
+The local date and time is: Mon Apr 28 02:35:43 2014
+
+Got Nsig:71/26.7268
+Got extracted:26.7268
+Pseudo exp:0
+The local date and time is: Mon Apr 28 02:35:43 2014
+
+cout:71
+_cout:22062
+true_yield:20
+Start pseudo exp fit:0
+The local date and time is: Mon Apr 28 02:36:02 2014
+
+ FCN=18.827 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.16883e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.34900e-01   1.06560e-01   1.06560e-03   5.06712e+00
+   2  p1           5.27894e+00   6.41794e-03   6.41794e-05   9.92041e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           7.17104e+00   1.21449e-01   1.21449e-03  -5.42866e+00
+   5  p4          -1.15540e+00   2.13819e-02   2.13819e-04  -2.27430e+04
+   6  p5           5.44349e-03   3.33768e-03   3.33768e-05   3.15265e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+70
+fit result:21.745 21.745
+The local date and time is: Mon Apr 28 02:36:02 2014
+
+Pseudo exp:1
+The local date and time is: Mon Apr 28 02:36:02 2014
+
+cout:71
+_cout:20766
+true_yield:23
+Start pseudo exp fit:1
+The local date and time is: Mon Apr 28 02:36:19 2014
+
+ FCN=28.4579 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=6.24019e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.50154e-01   1.06254e-01   1.06254e-03   5.08170e+00
+   2  p1           5.27360e+00   5.26181e-03   5.26181e-05   1.21001e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           1.04282e+01   1.05970e-01   1.05970e-03  -6.22161e+00
+   5  p4          -1.75609e+00   1.86048e-02   1.86048e-04  -3.97032e+04
+   6  p5           8.66583e-03   3.88335e-03   3.88335e-05   4.31366e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+73
+fit result:22.5077 22.5077
+The local date and time is: Mon Apr 28 02:36:20 2014
+
+Pseudo exp:2
+The local date and time is: Mon Apr 28 02:36:20 2014
+
+cout:71
+_cout:24096
+true_yield:22
+Start pseudo exp fit:2
+The local date and time is: Mon Apr 28 02:36:40 2014
+
+ FCN=20.6442 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.40059e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.70882e-01   9.76882e-02   9.76882e-04   5.52730e+00
+   2  p1           5.28119e+00   6.38798e-03   6.38798e-05   9.96693e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           5.78821e+00   1.17369e-01   1.17369e-03  -5.61739e+00
+   5  p4          -9.22476e-01   2.05993e-02   2.05993e-04  -1.88524e+04
+   6  p5           1.29753e-02   4.03031e-03   4.03031e-05   6.22328e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+72
+fit result:18.5441 18.5441
+The local date and time is: Mon Apr 28 02:36:40 2014
+
+Pseudo exp:3
+The local date and time is: Mon Apr 28 02:36:40 2014
+
+cout:71
+_cout:25273
+true_yield:17
+Start pseudo exp fit:3
+The local date and time is: Mon Apr 28 02:37:01 2014
+
+ FCN=25.9201 FROM MIGRAD    STATUS=FAILED        308 CALLS         309 TOTAL
+                     EDM=1.92248e-05    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.86837e-01   8.98167e-02  -0.00000e+00   2.88243e-03
+   2  p1           5.26224e+00   7.78225e-03   0.00000e+00  -3.31409e-02
+   3  p2           4.52772e-02     fixed    
+   4  p3           9.06585e+00   5.81659e-03   0.00000e+00  -2.85979e-02
+   5  p4          -1.51350e+00   2.18765e-03   0.00000e+00  -5.39174e+01
+   6  p5           1.16104e-02   4.03540e-03   0.00000e+00  -4.17769e-01
+   7  p6           0.00000e+00   1.00000e+00  -0.00000e+00   0.00000e+00
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+67
+fit result:14.3418 14.3418
+The local date and time is: Mon Apr 28 02:37:01 2014
+
+Pseudo exp:4
+The local date and time is: Mon Apr 28 02:37:01 2014
+
+cout:71
+_cout:21032
+true_yield:17
+Start pseudo exp fit:4
+The local date and time is: Mon Apr 28 02:37:19 2014
+
+ FCN=22.2139 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.41607e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.15135e-01   9.30614e-02   9.30614e-04   5.80211e+00
+   2  p1           5.28038e+00   7.47151e-03   7.47151e-05   8.52152e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           8.29844e+00   9.91659e-02   9.91659e-04  -6.64850e+00
+   5  p4          -1.38218e+00   1.73251e-02   1.73251e-04  -3.35701e+04
+   6  p5           1.20183e-02   4.04837e-03   4.04837e-05   5.73859e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+67
+fit result:15.7567 15.7567
+The local date and time is: Mon Apr 28 02:37:19 2014
+
+Pseudo exp:5
+The local date and time is: Mon Apr 28 02:37:19 2014
+
+cout:71
+_cout:19268
+true_yield:31
+Start pseudo exp fit:5
+The local date and time is: Mon Apr 28 02:37:36 2014
+
+ FCN=31.1979 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.53346e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.45843e-01   1.25292e-01   1.25292e-03   4.30953e+00
+   2  p1           5.27332e+00   4.84734e-03   4.84734e-05   1.31347e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           7.45363e+00   1.16877e-01   1.16877e-03  -5.64103e+00
+   5  p4          -1.20709e+00   2.04491e-02   2.04491e-04  -2.48433e+04
+   6  p5           5.83894e-03   3.36720e-03   3.36720e-05   3.35204e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+81
+fit result:32.2921 32.2921
+The local date and time is: Mon Apr 28 02:37:36 2014
+
+Pseudo exp:6
+The local date and time is: Mon Apr 28 02:37:36 2014
+
+cout:71
+_cout:20581
+true_yield:19
+Start pseudo exp fit:6
+The local date and time is: Mon Apr 28 02:37:53 2014
+
+ FCN=25.0251 FROM IMProve     STATUS=RESET          10 CALLS         398 TOTAL
+                     EDM=6.74384e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY  50.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.31446e-01   1.09096e-01   1.09096e-03  -1.91709e+01
+   2  p1           5.28531e+00   5.50335e-03   5.50335e-05   1.36936e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           5.36842e-01   2.06413e-01   2.06413e-03  -1.41759e+02
+   5  p4          -2.86181e-06   7.08032e+00   7.08032e-02** at limit **
+   6  p5           1.14073e-02   3.51218e-03   3.51218e-05  -5.56167e+03
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -1.44984e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+69
+fit result:26.5723 26.5723
+The local date and time is: Mon Apr 28 02:37:53 2014
+
+Pseudo exp:7
+The local date and time is: Mon Apr 28 02:37:53 2014
+
+cout:71
+_cout:22837
+true_yield:20
+Start pseudo exp fit:7
+The local date and time is: Mon Apr 28 02:38:13 2014
+
+ FCN=19.5289 FROM IMProve     STATUS=RESET          10 CALLS         382 TOTAL
+                     EDM=7.76414e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY  50.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.31006e-01   1.10124e-01   1.10124e-03   6.36193e-01
+   2  p1           5.26160e+00   5.02930e-03   5.02930e-05   1.59104e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           3.96729e-01   1.25072e-01   1.25072e-03  -2.75722e+01
+   5  p4          -1.37000e-07   1.30793e+00   1.30793e-02** at limit **
+   6  p5           1.72783e-02   4.24164e-03   4.24164e-05  -6.79268e+02
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -1.44984e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+70
+fit result:26.5503 26.5503
+The local date and time is: Mon Apr 28 02:38:13 2014
+
+Pseudo exp:8
+The local date and time is: Mon Apr 28 02:38:13 2014
+
+cout:71
+_cout:22791
+true_yield:21
+Start pseudo exp fit:8
+The local date and time is: Mon Apr 28 02:38:33 2014
+
+ FCN=20.0269 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.67653e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.72779e-01   1.02709e-01   1.02709e-03   5.25710e+00
+   2  p1           5.28436e+00   7.12458e-03   7.12458e-05   8.93647e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           9.74583e+00   1.18156e-01   1.18156e-03  -5.57997e+00
+   5  p4          -1.59838e+00   2.06491e-02   2.06491e-04  -3.25649e+04
+   6  p5           3.38424e-03   3.33784e-03   3.33784e-05   1.95993e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+71
+fit result:18.639 18.639
+The local date and time is: Mon Apr 28 02:38:33 2014
+
+Pseudo exp:9
+The local date and time is: Mon Apr 28 02:38:33 2014
+
+cout:71
+_cout:23593
+true_yield:21
+Start pseudo exp fit:9
+The local date and time is: Mon Apr 28 02:38:53 2014
+
+ FCN=34.8252 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.21907e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.68503e-01   1.02140e-01   1.02140e-03   5.28637e+00
+   2  p1           5.26961e+00   8.69120e-03   8.69120e-05   7.32564e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           7.45638e+00   1.29574e-01   1.29574e-03  -5.08825e+00
+   5  p4          -1.19343e+00   2.28726e-02   2.28726e-04  -2.19597e+04
+   6  p5           5.81780e-03   3.43116e-03   3.43116e-05   3.27765e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+71
+fit result:18.4252 18.4252
+The local date and time is: Mon Apr 28 02:38:53 2014
+
+Pseudo exp:10
+The local date and time is: Mon Apr 28 02:38:53 2014
+
+cout:71
+_cout:19516
+true_yield:19
+Start pseudo exp fit:10
+The local date and time is: Mon Apr 28 02:39:10 2014
+
+ FCN=21.5592 FROM HESSE     STATUS=RESET          28 CALLS         339 TOTAL
+                     EDM=2.7558e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.82452e-01   1.02088e-01   1.02088e-03   5.28908e+00
+   2  p1           5.27249e+00   6.60830e-03   6.60830e-05   9.63463e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           8.87295e+00   1.26795e-01   1.26795e-03  -5.19979e+00
+   5  p4          -1.43612e+00   2.23367e-02   2.23367e-04  -2.70529e+04
+   6  p5           8.50724e-04   3.03075e-03   3.03075e-05   5.42604e+01
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+69
+fit result:19.1226 19.1226
+The local date and time is: Mon Apr 28 02:39:10 2014
+
+Pseudo exp:11
+The local date and time is: Mon Apr 28 02:39:10 2014
+
+cout:71
+_cout:20071
+true_yield:21
+Start pseudo exp fit:11
+The local date and time is: Mon Apr 28 02:39:27 2014
+
+ FCN=39.0029 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.98849e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.47958e-01   9.40263e-02   9.40263e-04   5.74257e+00
+   2  p1           5.28320e+00   5.91915e-03   5.91915e-05   1.07564e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           4.52583e+00   1.36824e-01   1.36824e-03  -4.81863e+00
+   5  p4          -6.66717e-01   2.42672e-02   2.42672e-04  -1.15691e+04
+   6  p5           7.80087e-03   3.64383e-03   3.64383e-05   4.13835e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+71
+fit result:17.3979 17.3979
+The local date and time is: Mon Apr 28 02:39:27 2014
+
+Pseudo exp:12
+The local date and time is: Mon Apr 28 02:39:27 2014
+
+cout:71
+_cout:23633
+true_yield:28
+Start pseudo exp fit:12
+The local date and time is: Mon Apr 28 02:39:47 2014
+
+ FCN=27.2092 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.76833e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.89375e-01   1.21566e-01   1.21566e-03   4.44165e+00
+   2  p1           5.27248e+00   5.57665e-03   5.57665e-05   1.14170e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           7.37603e+00   9.97058e-02   9.97058e-04  -6.61250e+00
+   5  p4          -1.21275e+00   1.72727e-02   1.72727e-04  -2.95495e+04
+   6  p5           9.68805e-03   3.91588e-03   3.91588e-05   4.78243e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+78
+fit result:29.4687 29.4687
+The local date and time is: Mon Apr 28 02:39:48 2014
+
+Pseudo exp:13
+The local date and time is: Mon Apr 28 02:39:48 2014
+
+cout:71
+_cout:19977
+true_yield:18
+Start pseudo exp fit:13
+The local date and time is: Mon Apr 28 02:40:05 2014
+
+ FCN=28.6035 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.94374e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.09076e-01   1.01834e-01   1.01834e-03   5.30230e+00
+   2  p1           5.28795e+00   5.82506e-03   5.82506e-05   1.09301e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           6.81856e+00   1.15039e-01   1.15039e-03  -5.73113e+00
+   5  p4          -1.10317e+00   2.02145e-02   2.02145e-04  -2.29702e+04
+   6  p5           7.31144e-03   3.47062e-03   3.47062e-05   4.07230e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+68
+fit result:20.4538 20.4538
+The local date and time is: Mon Apr 28 02:40:05 2014
+
+Pseudo exp:14
+The local date and time is: Mon Apr 28 02:40:05 2014
+
+cout:71
+_cout:21646
+true_yield:22
+Start pseudo exp fit:14
+The local date and time is: Mon Apr 28 02:40:24 2014
+
+ FCN=28.0972 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=9.67135e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.88375e-01   1.02537e-01   1.02537e-03   5.26590e+00
+   2  p1           5.27018e+00   6.45429e-03   6.45429e-05   9.86453e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           9.79409e+00   1.00755e-01   1.00755e-03  -6.54365e+00
+   5  p4          -1.61802e+00   1.73981e-02   1.73981e-04  -3.91242e+04
+   6  p5           5.73280e-03   3.56321e-03   3.56321e-05   3.11007e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+72
+fit result:19.4187 19.4188
+The local date and time is: Mon Apr 28 02:40:24 2014
+
+Pseudo exp:15
+The local date and time is: Mon Apr 28 02:40:24 2014
+
+cout:71
+_cout:22692
+true_yield:18
+Start pseudo exp fit:15
+The local date and time is: Mon Apr 28 02:40:44 2014
+
+ FCN=27.3925 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.37686e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           3.96454e-01   1.04312e-01   1.04312e-03   5.17632e+00
+   2  p1           5.27411e+00   7.50298e-03   7.50298e-05   8.48577e+01
+   3  p2           4.52772e-02     fixed    
+   4  p3           6.90993e+00   1.28518e-01   1.28518e-03  -5.13007e+00
+   5  p4          -1.09882e+00   2.27303e-02   2.27303e-04  -2.03474e+04
+   6  p5           3.55413e-03   3.12590e-03   3.12590e-05   2.19788e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+68
+fit result:19.8227 19.8227
+The local date and time is: Mon Apr 28 02:40:44 2014
+
+Pseudo exp:16
+The local date and time is: Mon Apr 28 02:40:44 2014
+
+cout:71
+_cout:19957
+true_yield:29
+Start pseudo exp fit:16
+The local date and time is: Mon Apr 28 02:41:01 2014
+
+ FCN=24.298 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.50874e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.47187e-01   1.25869e-01   1.25869e-03   4.28978e+00
+   2  p1           5.27745e+00   5.98596e-03   5.98596e-05   1.06363e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           3.22482e+00   1.26615e-01   1.26615e-03  -5.20714e+00
+   5  p4          -4.65809e-01   2.23656e-02   2.23656e-04  -8.77184e+03
+   6  p5           9.87965e-03   3.55341e-03   3.55341e-05   5.37450e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+79
+fit result:32.3593 32.3594
+The local date and time is: Mon Apr 28 02:41:01 2014
+
+Pseudo exp:17
+The local date and time is: Mon Apr 28 02:41:01 2014
+
+cout:71
+_cout:20683
+true_yield:27
+Start pseudo exp fit:17
+The local date and time is: Mon Apr 28 02:41:19 2014
+
+ FCN=24.7562 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=7.17261e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           5.95166e-01   1.17502e-01   1.17502e-03   4.59524e+00
+   2  p1           5.27597e+00   4.79165e-03   4.79165e-05   1.32874e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           3.37486e+00   1.21964e-01   1.21964e-03  -5.40571e+00
+   5  p4          -4.97953e-01   2.16203e-02   2.16203e-04  -9.70011e+03
+   6  p5           1.12982e-02   3.67064e-03   3.67064e-05   5.94987e+02
+   7  p6           0.00000e+00   5.65685e+00   5.65685e-02  -5.16415e-02
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+77
+fit result:29.7583 29.7583
+The local date and time is: Mon Apr 28 02:41:19 2014
+
+Pseudo exp:18
+The local date and time is: Mon Apr 28 02:41:19 2014
+
+cout:71
+_cout:22253
+true_yield:20
+Start pseudo exp fit:18
+The local date and time is: Mon Apr 28 02:41:39 2014
+
+ FCN=22.128 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=5.22753e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.34906e-01   1.04302e-01   1.04302e-03   5.17681e+00
+   2  p1           5.28016e+00   5.94459e-03   5.94459e-05   1.07103e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           4.93244e+00   1.27102e-01   1.27102e-03  -5.18722e+00
+   5  p4          -7.57494e-01   2.24843e-02   2.24843e-04  -1.41853e+04
+   6  p5           7.27825e-03   3.43172e-03   3.43172e-05   4.09976e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+70
+fit result:21.7453 21.7453
+The local date and time is: Mon Apr 28 02:41:39 2014
+
+Pseudo exp:19
+The local date and time is: Mon Apr 28 02:41:39 2014
+
+cout:71
+_cout:20300
+true_yield:25
+Start pseudo exp fit:19
+The local date and time is: Mon Apr 28 02:41:56 2014
+
+ FCN=23.5885 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=7.38293e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           4.53922e-01   1.08755e-01   1.08755e-03   4.96486e+00
+   2  p1           5.28100e+00   5.95984e-03   5.95984e-05   1.06829e+02
+   3  p2           4.52772e-02     fixed    
+   4  p3           1.11876e+01   1.21581e-01   1.21581e-03  -5.42275e+00
+   5  p4          -1.89604e+00   2.16155e-02   2.16155e-04  -3.68914e+04
+   6  p5           1.01494e-02   4.02828e-03   4.02828e-05   4.87036e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           2.02463e-01     fixed    
+   9  p8           2.02055e-02     fixed    
+                               ERR DEF= 0.5
+75
+fit result:22.6961 22.6961
+The local date and time is: Mon Apr 28 02:41:57 2014
+
+Got Nsig:104/35.9101
+Got extracted:35.9101
+Pseudo exp:0
+The local date and time is: Mon Apr 28 02:41:57 2014
+
+cout:104
+_cout:35343
+true_yield:46
+Start pseudo exp fit:0
+The local date and time is: Mon Apr 28 02:42:27 2014
+
+ FCN=20.092 FROM HESSE     STATUS=RESET          28 CALLS         342 TOTAL
+                     EDM=1.676e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.66879e-01   1.46140e-01   1.46140e-03   3.69477e+00
+   2  p1           5.28197e+00   3.61169e-03   3.61169e-05   1.76284e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           1.75898e+00   1.16780e-01   1.16780e-03  -5.64571e+00
+   5  p4          -2.24320e-01   2.06745e-02   2.06745e-04  -4.57090e+03
+   6  p5           8.34031e-03   3.22876e-03   3.22876e-05   4.99333e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+86
+fit result:48.344 48.344
+The local date and time is: Mon Apr 28 02:42:27 2014
+
+Pseudo exp:1
+The local date and time is: Mon Apr 28 02:42:27 2014
+
+cout:104
+_cout:32620
+true_yield:34
+Start pseudo exp fit:1
+The local date and time is: Mon Apr 28 02:42:55 2014
+
+ FCN=19.2886 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.82839e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.96096e-01   1.24601e-01   1.24601e-03   4.33346e+00
+   2  p1           5.28035e+00   4.31406e-03   4.31406e-05   1.47584e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           1.02702e+00   1.11287e-01   1.11287e-03  -5.92435e+00
+   5  p4          -1.06380e-01   1.97162e-02   1.97162e-04  -2.27330e+03
+   6  p5           1.25158e-02   3.60888e-03   3.60888e-05   6.70393e+02
+   7  p6           0.00000e+00   8.00000e+00   8.00000e-02  -3.65161e-02
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+74
+fit result:34.8048 34.8048
+The local date and time is: Mon Apr 28 02:42:55 2014
+
+Pseudo exp:2
+The local date and time is: Mon Apr 28 02:42:55 2014
+
+cout:104
+_cout:35151
+true_yield:31
+Start pseudo exp fit:2
+The local date and time is: Mon Apr 28 02:43:25 2014
+
+ FCN=27.9692 FROM HESSE     STATUS=RESET          28 CALLS         364 TOTAL
+                     EDM=1.5423e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.25229e-01   1.19633e-01   1.19633e-03   4.51342e+00
+   2  p1           5.28517e+00   4.11811e-03   4.11811e-05   1.54606e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           8.22117e+00   3.94691e-03   3.94691e-05  -1.67043e+02
+   5  p4          -1.38637e+00   2.10933e-03   2.10933e-05  -2.76565e+05
+   6  p5           7.11452e-03   3.39182e-03   3.39182e-05   4.05468e+02
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -2.92129e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+71
+fit result:31.2614 31.2615
+The local date and time is: Mon Apr 28 02:43:26 2014
+
+Pseudo exp:3
+The local date and time is: Mon Apr 28 02:43:26 2014
+
+cout:104
+_cout:31055
+true_yield:41
+Start pseudo exp fit:3
+The local date and time is: Mon Apr 28 02:43:52 2014
+
+ FCN=28.5364 FROM HESSE     STATUS=RESET          28 CALLS         342 TOTAL
+                     EDM=6.63938e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.25598e-01   1.37915e-01   1.37915e-03   3.91510e+00
+   2  p1           5.27691e+00   4.00891e-03   4.00891e-05   1.58818e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           7.29576e+00   1.06116e-01   1.06116e-03  -6.21308e+00
+   5  p4          -1.19817e+00   1.86154e-02   1.86154e-04  -2.70890e+04
+   6  p5           3.24200e-03   2.97523e-03   2.97523e-05   2.10639e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+81
+fit result:41.2799 41.2799
+The local date and time is: Mon Apr 28 02:43:53 2014
+
+Pseudo exp:4
+The local date and time is: Mon Apr 28 02:43:53 2014
+
+cout:104
+_cout:35590
+true_yield:37
+Start pseudo exp fit:4
+The local date and time is: Mon Apr 28 02:44:23 2014
+
+ FCN=24.93 FROM IMProve     STATUS=RESET          10 CALLS         374 TOTAL
+                     EDM=1.4826e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY  50.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.99597e-01   1.24028e-01   1.24028e-03   3.47993e+00
+   2  p1           5.27805e+00   3.94268e-03   3.94268e-05   2.04177e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           3.98179e-01   1.09634e-01   1.09634e-03  -8.87058e+00
+   5  p4          -5.77108e-09   2.95910e-01   2.95910e-03** at limit **
+   6  p5           1.61844e-02   3.96514e-03   3.96514e-05  -1.41557e+02
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -1.44984e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+77
+fit result:34.9798 34.9798
+The local date and time is: Mon Apr 28 02:44:23 2014
+
+Pseudo exp:5
+The local date and time is: Mon Apr 28 02:44:23 2014
+
+cout:104
+_cout:34096
+true_yield:41
+Start pseudo exp fit:5
+The local date and time is: Mon Apr 28 02:44:52 2014
+
+ FCN=27.4863 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.20976e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.94147e-01   1.34242e-01   1.34242e-03   4.02224e+00
+   2  p1           5.27264e+00   4.24472e-03   4.24472e-05   1.49995e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.14594e+00   9.92133e-02   9.92133e-04  -6.64533e+00
+   5  p4          -6.62003e-01   1.73449e-02   1.73449e-04  -1.60719e+04
+   6  p5           1.17453e-02   3.64880e-03   3.64880e-05   6.22238e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+81
+fit result:39.7073 39.7074
+The local date and time is: Mon Apr 28 02:44:53 2014
+
+Pseudo exp:6
+The local date and time is: Mon Apr 28 02:44:53 2014
+
+cout:104
+_cout:37600
+true_yield:35
+Start pseudo exp fit:6
+The local date and time is: Mon Apr 28 02:45:25 2014
+
+ FCN=25.3748 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.21739e-11    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           6.51834e-01   1.23188e-01   1.23188e-03   4.38317e+00
+   2  p1           5.26984e+00   4.48270e-03   4.48270e-05   1.42032e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           6.49288e+00   1.01080e-01   1.01080e-03  -6.52260e+00
+   5  p4          -1.06341e+00   1.76547e-02   1.76547e-04  -2.53539e+04
+   6  p5           7.46761e-03   3.39421e-03   3.39421e-05   4.25291e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+75
+fit result:32.5917 32.5917
+The local date and time is: Mon Apr 28 02:45:25 2014
+
+Pseudo exp:7
+The local date and time is: Mon Apr 28 02:45:25 2014
+
+cout:104
+_cout:35752
+true_yield:37
+Start pseudo exp fit:7
+The local date and time is: Mon Apr 28 02:45:56 2014
+
+ FCN=24.9242 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.76579e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.02778e-01   1.32907e-01   1.32907e-03   4.06264e+00
+   2  p1           5.28241e+00   3.82269e-03   3.82269e-05   1.66555e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.10750e+00   1.04355e-01   1.04355e-03  -6.31791e+00
+   5  p4          -6.52362e-01   1.84880e-02   1.84880e-04  -1.48587e+04
+   6  p5           7.96721e-03   3.17788e-03   3.17788e-05   4.84632e+02
+   7  p6           0.00000e+00   5.65685e+00   5.65685e-02  -5.16415e-02
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+77
+fit result:40.1389 40.1389
+The local date and time is: Mon Apr 28 02:45:56 2014
+
+Pseudo exp:8
+The local date and time is: Mon Apr 28 02:45:56 2014
+
+cout:104
+_cout:38299
+true_yield:31
+Start pseudo exp fit:8
+The local date and time is: Mon Apr 28 02:46:29 2014
+
+ FCN=16.9124 FROM MIGRAD    STATUS=FAILED        398 CALLS         399 TOTAL
+                     EDM=1.55015e-05    STRATEGY= 1  ERROR MATRIX UNCERTAINTY  50.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.72225e-01   1.32569e-01  -0.00000e+00   6.44222e-04
+   2  p1           5.28191e+00   4.47552e-03  -0.00000e+00   1.73188e-03
+   3  p2           5.00000e-02     fixed    
+   4  p3           5.89502e+00   5.54753e-03  -0.00000e+00  -2.68827e-03
+   5  p4          -9.97450e-01   2.91107e-03   0.00000e+00  -3.01726e+01
+   6  p5           8.55648e-03   3.36362e-03  -0.00000e+00   1.13565e-01
+   7  p6           0.00000e+00   2.40000e+00  -0.00000e+00   0.00000e+00
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+71
+fit result:38.6112 38.6112
+The local date and time is: Mon Apr 28 02:46:29 2014
+
+Pseudo exp:9
+The local date and time is: Mon Apr 28 02:46:29 2014
+
+cout:104
+_cout:33933
+true_yield:41
+Start pseudo exp fit:9
+The local date and time is: Mon Apr 28 02:46:59 2014
+
+ FCN=22.5711 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.62152e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.62183e-01   1.41038e-01   1.41038e-03   3.82840e+00
+   2  p1           5.27386e+00   4.52915e-03   4.52915e-05   1.40575e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.64289e+00   9.36940e-02   9.36940e-04  -7.03679e+00
+   5  p4          -7.56886e-01   1.63689e-02   1.63689e-04  -1.94692e+04
+   6  p5           1.01561e-02   3.55200e-03   3.55200e-05   5.52709e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+81
+fit result:43.1092 43.1092
+The local date and time is: Mon Apr 28 02:46:59 2014
+
+Pseudo exp:10
+The local date and time is: Mon Apr 28 02:46:59 2014
+
+cout:104
+_cout:39990
+true_yield:40
+Start pseudo exp fit:10
+The local date and time is: Mon Apr 28 02:47:33 2014
+
+ FCN=24.4095 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.51622e-08    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.26113e-01   1.34759e-01   1.34759e-03   4.00681e+00
+   2  p1           5.28300e+00   3.89533e-03   3.89533e-05   1.63448e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           2.52769e+00   1.01783e-01   1.01783e-03  -6.47753e+00
+   5  p4          -3.80099e-01   1.78977e-02   1.78977e-04  -8.94541e+03
+   6  p5           1.23241e-02   3.65274e-03   3.65274e-05   6.52195e+02
+   7  p6           0.00000e+00   5.65685e+00   5.65685e-02  -5.16415e-02
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+80
+fit result:41.3057 41.3057
+The local date and time is: Mon Apr 28 02:47:33 2014
+
+Pseudo exp:11
+The local date and time is: Mon Apr 28 02:47:33 2014
+
+cout:104
+_cout:34211
+true_yield:38
+Start pseudo exp fit:11
+The local date and time is: Mon Apr 28 02:48:03 2014
+
+ FCN=27.6811 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=3.2417e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.08550e-01   1.39217e-01   1.39217e-03   3.87849e+00
+   2  p1           5.28291e+00   3.76092e-03   3.76092e-05   1.69290e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           6.48898e-01   8.91209e-02   8.91209e-04  -7.39787e+00
+   5  p4          -6.76282e-02   1.57609e-02   1.57609e-04  -1.80794e+03
+   6  p5           1.37064e-02   3.52937e-03   3.52937e-05   7.50701e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+78
+fit result:45.4275 45.4275
+The local date and time is: Mon Apr 28 02:48:03 2014
+
+Pseudo exp:12
+The local date and time is: Mon Apr 28 02:48:03 2014
+
+cout:104
+_cout:34015
+true_yield:35
+Start pseudo exp fit:12
+The local date and time is: Mon Apr 28 02:48:33 2014
+
+ FCN=23.6962 FROM IMProve     STATUS=RESET          10 CALLS         376 TOTAL
+                     EDM=2.18312e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY  50.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.43507e-01   1.34063e-01   1.34063e-03   2.71251e+00
+   2  p1           5.28598e+00   3.76682e-03   3.76682e-05   2.15032e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           3.15488e-01   9.99795e-02   9.99795e-04  -9.96870e+00
+   5  p4          -1.12965e-07   3.37115e-01   3.37115e-03** at limit **
+   6  p5           1.24783e-02   3.44267e-03   3.44267e-05  -2.12064e+02
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -1.44984e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+75
+fit result:42.1754 42.1754
+The local date and time is: Mon Apr 28 02:48:33 2014
+
+Pseudo exp:13
+The local date and time is: Mon Apr 28 02:48:33 2014
+
+cout:104
+_cout:39515
+true_yield:49
+Start pseudo exp fit:13
+The local date and time is: Mon Apr 28 02:49:07 2014
+
+ FCN=29.2516 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=2.05881e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.00793e+00   1.52692e-01   1.52692e-03   3.53622e+00
+   2  p1           5.27979e+00   4.21687e-03   4.21687e-05   1.50985e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           6.12817e+00   9.64127e-02   9.64127e-04  -6.83836e+00
+   5  p4          -1.00222e+00   1.67169e-02   1.67169e-04  -2.52371e+04
+   6  p5           5.71412e-03   3.17289e-03   3.17289e-05   3.48127e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+89
+fit result:50.3963 50.3963
+The local date and time is: Mon Apr 28 02:49:08 2014
+
+Pseudo exp:14
+The local date and time is: Mon Apr 28 02:49:08 2014
+
+cout:104
+_cout:35022
+true_yield:37
+Start pseudo exp fit:14
+The local date and time is: Mon Apr 28 02:49:38 2014
+
+ FCN=27.5792 FROM HESSE     STATUS=RESET          28 CALLS         358 TOTAL
+                     EDM=1.22111e-06    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.74693e-01   1.29701e-01   1.29701e-03   4.16305e+00
+   2  p1           5.27448e+00   3.84124e-03   3.84124e-05   1.65750e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.88316e-01   1.15482e-01   1.15482e-03  -5.70918e+00
+   5  p4          -4.20001e-05   2.55807e+00   2.55807e-02** at limit **
+   6  p5           1.01463e-02   3.27249e-03   3.27249e-05   5.99337e+02
+   7  p6           0.00000e+00   1.00000e+00   1.00000e-02  -2.92129e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+77
+fit result:38.7347 38.7347
+The local date and time is: Mon Apr 28 02:49:38 2014
+
+Pseudo exp:15
+The local date and time is: Mon Apr 28 02:49:38 2014
+
+cout:104
+_cout:34479
+true_yield:38
+Start pseudo exp fit:15
+The local date and time is: Mon Apr 28 02:50:08 2014
+
+ FCN=23.0302 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.28745e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.24044e-01   1.35737e-01   1.35737e-03   3.97791e+00
+   2  p1           5.28219e+00   4.15055e-03   4.15055e-05   1.53398e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           1.26895e+00   1.22274e-01   1.22274e-03  -5.39205e+00
+   5  p4          -1.25480e-01   2.17938e-02   2.17938e-04  -2.42579e+03
+   6  p5           5.75135e-03   2.84382e-03   2.84382e-05   3.90941e+02
+   7  p6           0.00000e+00   2.82843e+00   2.82843e-02  -1.03283e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+78
+fit result:41.2022 41.2022
+The local date and time is: Mon Apr 28 02:50:09 2014
+
+Pseudo exp:16
+The local date and time is: Mon Apr 28 02:50:09 2014
+
+cout:104
+_cout:36552
+true_yield:37
+Start pseudo exp fit:16
+The local date and time is: Mon Apr 28 02:50:40 2014
+
+ FCN=26.5191 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=4.01705e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.32890e-01   1.31087e-01   1.31087e-03   4.11904e+00
+   2  p1           5.27601e+00   4.53267e-03   4.53267e-05   1.40466e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.17442e+00   1.02659e-01   1.02659e-03  -6.42230e+00
+   5  p4          -6.62503e-01   1.79213e-02   1.79213e-04  -1.55667e+04
+   6  p5           1.01176e-02   3.54853e-03   3.54853e-05   5.51150e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+77
+fit result:36.6445 36.6445
+The local date and time is: Mon Apr 28 02:50:41 2014
+
+Pseudo exp:17
+The local date and time is: Mon Apr 28 02:50:41 2014
+
+cout:104
+_cout:34206
+true_yield:49
+Start pseudo exp fit:17
+The local date and time is: Mon Apr 28 02:51:11 2014
+
+ FCN=23.1944 FROM HESSE     STATUS=RESET          28 CALLS         342 TOTAL
+                     EDM=2.82545e-10    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           9.62398e-01   1.43876e-01   1.43876e-03   3.75289e+00
+   2  p1           5.27868e+00   3.48111e-03   3.48111e-05   1.82897e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           2.36542e+00   1.01037e-01   1.01037e-03  -6.52537e+00
+   5  p4          -3.53804e-01   1.78446e-02   1.78446e-04  -8.35160e+03
+   6  p5           1.45700e-02   3.82544e-03   3.82544e-05   7.36237e+02
+   7  p6           0.00000e+00   5.65685e+00   5.65685e-02  -5.16415e-02
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+89
+fit result:48.1199 48.1199
+The local date and time is: Mon Apr 28 02:51:11 2014
+
+Pseudo exp:18
+The local date and time is: Mon Apr 28 02:51:11 2014
+
+cout:104
+_cout:32152
+true_yield:41
+Start pseudo exp fit:18
+The local date and time is: Mon Apr 28 02:51:39 2014
+
+ FCN=26.8029 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=1.1484e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           7.63862e-01   1.33068e-01   1.33068e-03   4.05771e+00
+   2  p1           5.27628e+00   4.42470e-03   4.42470e-05   1.43893e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           4.16258e+00   1.21340e-01   1.21340e-03  -5.43354e+00
+   5  p4          -6.32778e-01   2.14051e-02   2.14051e-04  -1.24488e+04
+   6  p5           6.36184e-03   3.14411e-03   3.14411e-05   3.91137e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+81
+fit result:38.1931 38.1931
+The local date and time is: Mon Apr 28 02:51:39 2014
+
+Pseudo exp:19
+The local date and time is: Mon Apr 28 02:51:39 2014
+
+cout:104
+_cout:36984
+true_yield:42
+Start pseudo exp fit:19
+The local date and time is: Mon Apr 28 02:52:12 2014
+
+ FCN=18.508 FROM HESSE     STATUS=RESET          28 CALLS         341 TOTAL
+                     EDM=9.29538e-12    STRATEGY= 1  ERROR MATRIX UNCERTAINTY 100.0 per cent
+  EXT PARAMETER                APPROXIMATE        STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           8.35061e-01   1.37683e-01   1.37683e-03   3.92172e+00
+   2  p1           5.27644e+00   3.84317e-03   3.84317e-05   1.65667e+02
+   3  p2           5.00000e-02     fixed    
+   4  p3           6.69047e+00   8.63333e-02   8.63333e-04  -7.63674e+00
+   5  p4          -1.11312e+00   1.49968e-02   1.49968e-04  -3.12412e+04
+   6  p5           8.66083e-03   3.64199e-03   3.64199e-05   4.59689e+02
+   7  p6           0.00000e+00   2.40000e+00   2.40000e-02  -1.21720e-01
+   8  p7           1.38548e-01     fixed    
+   9  p8           2.01994e-02     fixed    
+                               ERR DEF= 0.5
+82
+fit result:41.7531 41.7531
+The local date and time is: Mon Apr 28 02:52:12 2014
+
